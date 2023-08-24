@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oscar-tut with 22 years old.
 - 👀 I’m interested in teach my language (Spanish) and about my culture.
 - 🌱 I’m currently learning broadly about HTML, CSS, GIT, PYTHON, Django, SQL, JavaScript, etc., with CS50´s Web Programming with Python and JavaScript. I'm studing the first year of Software Engineer.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on software design and maintenance, however, I'm willing to help and engage with other proyects.
   
 - 📫 How to reach me: oscar.tut.herrera@gmail.com
 
